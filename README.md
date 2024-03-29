@@ -1,1 +1,1 @@
-# RAG-projects
+# GenAI-projects
