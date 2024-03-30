@@ -8,7 +8,7 @@ Source code: https://github.com/Parncncd/GenAI-projects/blob/main/claude_chat_wi
 
 Demo: https://huggingface.co/spaces/Chananchida/claude-chat-with-pdf
 
-![alt text](images\demo_claude_chat_with_pdf.png)
+![demo_claude_chat_with_pdf](images/demo_claude_chat_with_pdf.png)
 
 ## Claude 3 - Basic RAG
 
